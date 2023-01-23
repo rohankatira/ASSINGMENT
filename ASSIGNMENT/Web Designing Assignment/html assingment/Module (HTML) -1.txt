@@ -1,0 +1,73 @@
+Are the HTML tags and elements the same thing?
+No HTML tags  and elements are not sames as tags because tags are written in different ways an element written between angle bracket is known as tag.
+for ex. <html>.
+element are written in this ways
+a word written with in angle bracket is known as an element.
+
+What are tags and attributes in HTML? 
+ HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol. Whatever written inside < and > are called tags.
+ and HTML Attributes: It is used to define the character of an HTML element. It always placed in the opening tag of an element. It generally provides additional styling (attribute) to the element.
+
+ What are void elements in HTML?
+ there is a special group of elements that only have start tags and does not contain any content within it, these elements are called void elements.
+
+ What are HTML Entities?
+ HTML Entities provides some method to display reserved characters. Reserved characters are those characters that are either reserved for HTML or those which are not present in the basic keyboard. For instance, ‘<‘ is reserved in HTML language. Sometimes this character needs to display on the web page which creates ambiguity sin code. Along with these are the characters which are normally not present in basic keyboard ( £, ¥, €, © )
+
+ What are different types of lists in HTML? 
+ there is three type of list:
+        (1) order list
+        (2) unorder list
+        (3) defination/ description list 
+        list is used to show more option in wed site
+
+What is the ‘class’ attribute in HTML? 
+The HTML class attribute is used to specify a class for an HTML element.
+Multiple HTML elements can share the same class.
+
+What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML 
+elements?
+the difference between and id attribute and class attribute is that id value must be different or unique in the whole document and for class value can be same for Multiple element
+
+What are the various formatting tags in HTML? 
+various formattingtags in html is used in html to give text a new fornt or to bold underline italic etc  many more things can be done by formattingtags
+
+How is Cell Padding different from Cell Spacing?
+cell Padding give space between border and contant and cell Spacing give space between cells border and table border
+ 
+ How can we club two or more rows or columns into a single row or column in an HTML table?
+ for merge a cell used rowspan and colspan attribute this both attribute used in <td> tag and <th> tag
+ 
+ What is the difference between a block-level element and an inline element?
+ A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element and An inline element does not start on a new line.
+ 
+ How to create a Hyperlink in HTML?
+ Hyperlink can be created as 
+ <a href="https://www.timesindia.com/">Visit timesindia</a>
+
+ What is the use of an iframe tag? 
+ the used of iframe is that to open another file or image in  an current document.
+
+ What is the use of a span tag? Explain with example? 
+ The span tag is a paired tag means it has both open(<) and closing (>) tags, The span tag is used for the grouping of inline elements & this tag does not make any visual change by itself. for example<span class="">Some Text</span> 
+
+ How to insert a picture into a background image of a web page?
+ we can add a back ground image  in body tag or with the help of css  <body background="Images/img1.jpeg"></body> 
+
+ How are active links different from normal links?
+ active links and normal links is blue  Some browsers recognize an active link when the mouse cursor is placed over that link and some recognize when a link has a focus. and normal links that don't have a mouse cursor over that link is considered as a normal link
+
+ What are the different tags to separate sections of text?
+ br tag p tag etc are the different tags to separate sections of text
+
+ What is SVG? 
+ svg stads for Scalable Vector Graphics . SVG defines vector-based graphics in XML format.
+
+ What is difference between HTML and XHTML?
+ XHTML stands for Extensible Hypertext Markup Language. It can be considered as a part of the XML markup language this is because of XHTML have features of both XML and HTML. can be considered as a better version of HTML.  and HTML is the Hypertext Markup Language which is the most widely used language over the internet.HTML is used to create web pages and link them from one to another. 
+
+ What are logical and physical tags in HTML?
+In HTML the formatting tags are divided into two categories:
+
+Physical tag: These tags are used to provide the visual appearance to the text.
+Logical tag: These tags are used to add some logical or semantic value to the text.
